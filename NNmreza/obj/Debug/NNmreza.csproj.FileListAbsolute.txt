@@ -1,0 +1,70 @@
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza02\bin\Debug\NNmreza.exe.config
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza02\bin\Debug\NNmreza.exe
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza02\bin\Debug\NNmreza.pdb
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza02\obj\Debug\NNmreza.Properties.Resources.resources
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza02\obj\Debug\NNmreza.csproj.GenerateResource.cache
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza02\obj\Debug\NNmreza.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza02\obj\Debug\NNmreza.exe
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza02\obj\Debug\NNmreza.pdb
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza02\obj\Debug\NNmreza.Form1.resources
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza\bin\Debug\NNmreza.exe.config
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza\bin\Debug\NNmreza.exe
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza\bin\Debug\NNmreza.pdb
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza\obj\Debug\NNmreza.csproj.AssemblyReference.cache
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza\obj\Debug\NNmreza.Form1.resources
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza\obj\Debug\NNmreza.Properties.Resources.resources
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza\obj\Debug\NNmreza.csproj.GenerateResource.cache
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza\obj\Debug\NNmreza.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza\obj\Debug\NNmreza.exe
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\NNmreza02\NNmreza\obj\Debug\NNmreza.pdb
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\CEO PROJEKAT\NNmreza\NNmreza\bin\Debug\NNmreza.exe.config
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\CEO PROJEKAT\NNmreza\NNmreza\bin\Debug\NNmreza.exe
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\CEO PROJEKAT\NNmreza\NNmreza\bin\Debug\NNmreza.pdb
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\CEO PROJEKAT\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.AssemblyReference.cache
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\CEO PROJEKAT\NNmreza\NNmreza\obj\Debug\NNmreza.Form1.resources
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\CEO PROJEKAT\NNmreza\NNmreza\obj\Debug\NNmreza.Properties.Resources.resources
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\CEO PROJEKAT\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.GenerateResource.cache
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\CEO PROJEKAT\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\CEO PROJEKAT\NNmreza\NNmreza\obj\Debug\NNmreza.exe
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2022_2023\Vezbe\NN\Za ispit\CEO PROJEKAT\NNmreza\NNmreza\obj\Debug\NNmreza.pdb
+C:\Users\stefa\Desktop\Inteligentni ispit JUL\NNmreza\NNmreza\bin\Debug\NNmreza.exe.config
+C:\Users\stefa\Desktop\Inteligentni ispit JUL\NNmreza\NNmreza\bin\Debug\NNmreza.exe
+C:\Users\stefa\Desktop\Inteligentni ispit JUL\NNmreza\NNmreza\bin\Debug\NNmreza.pdb
+C:\Users\stefa\Desktop\Inteligentni ispit JUL\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Inteligentni ispit JUL\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\Desktop\Inteligentni ispit JUL\NNmreza\NNmreza\obj\Debug\NNmreza.Form1.resources
+C:\Users\stefa\Desktop\Inteligentni ispit JUL\NNmreza\NNmreza\obj\Debug\NNmreza.Properties.Resources.resources
+C:\Users\stefa\Desktop\Inteligentni ispit JUL\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Inteligentni ispit JUL\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Inteligentni ispit JUL\NNmreza\NNmreza\obj\Debug\NNmreza.exe
+C:\Users\stefa\Desktop\Inteligentni ispit JUL\NNmreza\NNmreza\obj\Debug\NNmreza.pdb
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\bin\Debug\NNmreza.exe.config
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\bin\Debug\NNmreza.exe
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\bin\Debug\NNmreza.pdb
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.AssemblyReference.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.Form1.resources
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.Properties.Resources.resources
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.GenerateResource.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.CoreCompileInputs.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.exe
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.pdb
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Old\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\bin\Debug\NNmreza.exe.config
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Old\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\bin\Debug\NNmreza.exe
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Old\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\bin\Debug\NNmreza.pdb
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Old\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.AssemblyReference.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Old\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.Form1.resources
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Old\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.Properties.Resources.resources
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Old\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.GenerateResource.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Old\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.CoreCompileInputs.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Old\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.exe
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\Old\Inteligentni\Inteligentni ispit JUL\MH18_2019\NNmreza\NNmreza\obj\Debug\NNmreza.pdb
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\NNmreza\NNmreza\bin\Debug\NNmreza.exe.config
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\NNmreza\NNmreza\bin\Debug\NNmreza.exe
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\NNmreza\NNmreza\bin\Debug\NNmreza.pdb
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.AssemblyReference.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\NNmreza\NNmreza\obj\Debug\NNmreza.Form1.resources
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\NNmreza\NNmreza\obj\Debug\NNmreza.Properties.Resources.resources
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.GenerateResource.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\NNmreza\NNmreza\obj\Debug\NNmreza.csproj.CoreCompileInputs.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\NNmreza\NNmreza\obj\Debug\NNmreza.exe
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\NNmreza\NNmreza\obj\Debug\NNmreza.pdb

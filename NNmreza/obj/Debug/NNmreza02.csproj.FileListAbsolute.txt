@@ -1,0 +1,10 @@
+C:\Milos\Nastava\NN\NNmreza02\NNmreza02\bin\Debug\NNmreza02.exe.config
+C:\Milos\Nastava\NN\NNmreza02\NNmreza02\bin\Debug\NNmreza02.exe
+C:\Milos\Nastava\NN\NNmreza02\NNmreza02\bin\Debug\NNmreza02.pdb
+C:\Milos\Nastava\NN\NNmreza02\NNmreza02\obj\Debug\NNmreza02.Properties.Resources.resources
+C:\Milos\Nastava\NN\NNmreza02\NNmreza02\obj\Debug\NNmreza02.csproj.GenerateResource.cache
+C:\Milos\Nastava\NN\NNmreza02\NNmreza02\obj\Debug\NNmreza02.csproj.CoreCompileInputs.cache
+C:\Milos\Nastava\NN\NNmreza02\NNmreza02\obj\Debug\NNmreza02.exe
+C:\Milos\Nastava\NN\NNmreza02\NNmreza02\obj\Debug\NNmreza02.pdb
+C:\Milos\Nastava\NN\NNmreza02\NNmreza02\obj\Debug\NNmreza02.Form1.resources
+C:\Milos\Nastava\NN\NNmreza02\NNmreza02\obj\Debug\NNmreza02.csproj.AssemblyReference.cache
